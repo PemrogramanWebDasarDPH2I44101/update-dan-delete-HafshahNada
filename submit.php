@@ -1,5 +1,5 @@
 <?php
-require_once("db.php");
+require_once 'db.php';
 
 $nama       = $_POST['nama'];
 $nim        = $_POST['nim'];
